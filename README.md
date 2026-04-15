@@ -100,7 +100,7 @@
 <h3><strong>Steps</strong></h3>
 <ol>
     <li>Clone the repository:
-    <pre><code>git clone[ https://github.com/SalokheTejas/FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH.git](https://github.com/SalokheTejas/Smart_Internz/tree/main/FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH](https://github.com/SalokheTejas/Smart_Internz.git)</code></pre></li>
+    <pre><code>git clone https://github.com/SalokheTejas/Smart_Internz.git</code></pre></li>
     <li>Navigate to the project directory:
     <pre><code>cd FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH</code></pre></li>
     <li>Install the required dependencies:
