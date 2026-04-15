@@ -127,7 +127,7 @@
 
 <h2 id="screenshots">Screenshots</h2>
 <p><strong>Home Page</strong></p>
-<img src="\4. Project Development Phase\images\homepage.png" alt="Home Page" width="500">
+<img src="FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH/Main_Project/images/F2.png" alt="Home Page" width="500">
 
 <p><strong>Prediction Page</strong></p>
 <img src="\4. Project Development Phase\images\analyse.png" alt="Analyse" width="500">
