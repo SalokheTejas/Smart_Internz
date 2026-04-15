@@ -1,0 +1,8 @@
+# Python 3.7 or higher
+Python 3.10.11
+TensorFlow
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
