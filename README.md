@@ -102,9 +102,11 @@
     <li>Clone the repository:
     <pre><code> https://github.com/SalokheTejas/Smart_Internz.git</code></pre></li>
     <li>Navigate to the project directory:
-    <pre><code>cd FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH\Main_Project\flask_app\python app.py</code></pre></li>
+    <pre><code>cd FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH\Main_Project\flask_app</code></pre></li>
     <li>Install the required dependencies:
     <pre><code>pip install -r requirements.txt</code></pre></li>
+    <li>Run the Application:
+    <pre><code>python app.py</code></pre></li>
 </ol>
 
 <h2 id="usage">Usage</h2>
