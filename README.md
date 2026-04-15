@@ -130,8 +130,7 @@
 <img src="FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH/Main_Project/images/F2.png" alt="Home Page" width="500">
 
 <p><strong>Prediction Page</strong></p>
-<img src="FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH/Main_Project/images/F2.png" alt="Home Page" width="500">
-<img src="FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH/Main_Project/images/F8.pngg" alt="Analyse" width="500">
+<img src="FetalAI-USING-MACHINE-LEARNING-TO-PREDICT-AND-MONITOR-FETAL-HEALTH/Main_Project/images/F8.png" alt="Analyse" width="500">
 
 <h2 id="advantages--disadvantages">Advantages & Disadvantages</h2>
 <h3><strong>Advantages</strong></h3>
